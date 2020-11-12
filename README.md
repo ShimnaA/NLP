@@ -17,5 +17,19 @@
         
         - Predict for a single Review
         
+   - Check with Different Classification models
+   - Logistic Regression - 78% (Accuracy Score)
+   - K Nearest Neighbor - 64.5% (Accuracy Score)
+   - SVM - 78% (Accuracy Score)
+   - Kernel SVM - 78% (Accuracy Score)
+   - Decision Tree - 75.5%  (Accuracy Score)
+   - Random Forest - 73%  (Accuracy Score)
+   - Maximum Entropy - 78%  (Accuracy Score)
+   
+ The best model is the one with Logistic Regression and SVM
+        
+        
+        
+        
         
         
